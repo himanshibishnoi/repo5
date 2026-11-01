@@ -5,11 +5,11 @@
   "created_at": "2026-11-01T04:45:00Z",
   "description": "WoT Standalone Seed: External project feed",
   "vouches": [
-    "eva-security"
+    "himanshibishnoi"
   ],
-  "denouncements": [],
+  "denouncements": ["Jyotkesari"],
   "trusted_peers": [
-    "Ishan3131/repo5"
+    "Ishan3131/repo1"
   ],
   "signature": "sha256:4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5"
 }
